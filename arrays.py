@@ -7,4 +7,4 @@ i=0
 while i<len(newArr):
     print(newArr[i])
     i+=1
-    
+
